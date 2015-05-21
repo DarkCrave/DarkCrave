@@ -1,0 +1,9 @@
+Building DarkCrave
+
+See doc/readme-qt.rst for instructions on building DarkCrave QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DarkCrave.
+
+See doc/build-*.txt for instructions on building DarkCraved,
+the intended-for-services, no-graphical-interface, reference
+implementation of DarkCrave.
